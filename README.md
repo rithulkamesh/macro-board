@@ -8,7 +8,7 @@ It has the PCB Design and the 3D-Design for printing [To Be Done].
 # Contributions and Credits
 
 - [Rithul Kamesh](https://rithul.dev) - Main Programming, PCB Design
-- [CrazyBlackStone](https://crazyblackstone.com) and [Hugo](https://www.hugohu.me/) for getting me started with PCB Design
+- [CrazyBlackStone](https://crazyblackstone.com) and [Hugo](https://www.hugohu.me/) for getting me started with PCB Design in [#hardware-party](https://slack.hackclub.com)
 
 All Contributions are taken under the same license as the project i.e [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
