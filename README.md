@@ -1,5 +1,8 @@
 # Macro Board
 
+
+**This project has been archived since the work on this is just a practice to get used to software. Please do not expect this project to be continued, Thank you**
+
 ![Banner](art/banner.png)
 
 This is a programmable 6-key keyboard with a knob. Designed with [Kicad](https://www.kicad.org/) and [Fusion 360](https://www.autodesk.com/products/fusion-360).
